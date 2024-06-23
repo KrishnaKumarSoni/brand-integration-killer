@@ -1,0 +1,23 @@
+{
+  "name": "brand-ad-skipper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "openai": "^4.47.3",
+    "punycode": "^2.3.1",
+    "youtube-captions-scraper": "^2.0.3",
+    "youtube-transcript": "^1.2.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
