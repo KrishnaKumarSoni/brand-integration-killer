@@ -61,6 +61,14 @@ This project uses a `.env` file to manage environment variables, including API k
 
 Remember to keep your API keys confidential and never share them publicly.
 
+### If you're interested in contributing to the Chrome extension:
+
+1. Check out the js-code branch:
+2. Copygit checkout js-code
+3. Navigate to the JS code folder to find the extension files.
+4. Make your changes and test the extension locally.
+5. Submit a pull request to the js-code branch with your changes.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
